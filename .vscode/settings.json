@@ -1,0 +1,8 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "terminal.integrated.tabs.defaultIcon": "terminal",
+    "openInDefaultBrowser.run.openWithLocalHttpServer": true
+    }
+    
+    
